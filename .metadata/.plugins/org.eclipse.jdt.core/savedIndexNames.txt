@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/nicholascarlin/Desktop/School/Junior S1/CSE 132/studio-00-carlin-wendland-brame-choi/.metadata/.plugins/org.eclipse.jdt.core
+3787740244.index
+1772992580.index
